@@ -6,4 +6,4 @@ I chose to use a color gradient to represent precipitation levels, with the dark
 
 While there's always room for improvement, like adding more detailed information about temperature and wind speed or making the map zoomable, I'm pretty happy about how it turned out. So, if you're ever planning a hike or outdoor activity, make sure to check out my map and stay dry!
 
-![](images/Screenshot 2023-03-30 051542.png 
+![](images/Screenshot_2023-03-30_051542.png)
